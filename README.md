@@ -1,3 +1,5 @@
+[logo](https://github.com/Mohsin97-hub/Mohsin97-hub/blob/main/Design%20a%20professional%20GitHub%20profile%20banner%20(1280%20x%20640%20px)%20without%20any%20personal%20photos.__Style_%20Modern%2C%20minimalistic%2C%20and%20tech-themed%20using%20a%20clean%20dark%20or%20light%20gradient%20background.__Include%20the%20following%20el.png)
+
 <h1 align="center">Hi 👋, I'm Mohsin khan</h1>
 <h3 align="center">🔢 Mathematics Expert | 📊 Data Analyst | 👨‍🏫 Educator from Pakistan</h3>
 
